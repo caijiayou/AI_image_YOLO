@@ -4,7 +4,7 @@ import numpy as np
 
 # ========= 基本設定 =========
 DATASET_DIR = "dataset"
-IMG_SIZE = (28, 28)   # KNN 常用尺寸（可改 32x32）
+IMG_SIZE = (128, 128)   # KNN 常用尺寸（可改 32x32）
 CAMERA_ID = 0
 
 # 建立 0~9 資料夾
